@@ -16,6 +16,8 @@ Projeto desenvolvido com foco em desenvolvimento ágil, aplicando os conceitos d
 * **ENTÃO** o sistema retorna "O Sol é para Todos"
 
 
+![Screenshot 2026-04-03 001541](https://github.com/user-attachments/assets/7df8e889-03b0-4232-a4d9-11dd1c1f99d6)
+
 
 ## Demonstração :
 

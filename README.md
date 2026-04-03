@@ -1,4 +1,4 @@
-# 📚 Literalar - Sistema de Busca de Livros (MVP)
+# Literalar - Sistema de Busca de Livros (MVP)
 
 Projeto desenvolvido com foco em desenvolvimento ágil, aplicando os conceitos de TDD (Test-Driven Development), BDD (Behavior-Driven Development) e Desenvolvimento Top-Down
 
